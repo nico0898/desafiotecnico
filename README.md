@@ -1,6 +1,6 @@
-# 🎉 Birthday Rooms API & Frontend
 
-Sistema de reservas para salones de cumpleaños, desarrollado con Clean Architecture, principios SOLID y almacenamiento en memoria.
+
+Sistema de reservas para salones de cumpleaños.
 
 ## 🧱 Tecnologías utilizadas
 
@@ -8,11 +8,11 @@ Sistema de reservas para salones de cumpleaños, desarrollado con Clean Architec
 - ASP.NET Core
 - Clean Architecture
 - SOLID Principles
-- Almacenamiento en memoria (`InMemoryReservationRepository`)
+- Almacenamiento en memoria
 - xUnit para tests unitarios
 
 ### Frontend (React + Vite)
-- React (sin TypeScript)
+- React
 - Vite
 - Bootstrap 5
 - FullCalendar (visualización de reservas)
@@ -23,8 +23,7 @@ Sistema de reservas para salones de cumpleaños, desarrollado con Clean Architec
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu_usuario/birthday-rooms.git
-cd birthday-rooms
+git clone https://github.com/nico0898/desafiotecnico.git
 ```
 
 ---
@@ -33,7 +32,7 @@ cd birthday-rooms
 
 #### 📁 Navegar a la carpeta de la API
 ```bash
-cd BirthdayRooms.API
+cd api
 ```
 
 #### 🔧 Restaurar paquetes y correr
@@ -104,7 +103,7 @@ Las pruebas validan toda la lógica de negocio (validaciones de horario, superpo
 ```
 📦 api                       → Proyecto principal ASP.NET Core
 📦 Application               → Servicios de negocio
-📦 Domain                    → Entidades y contratos (interfaces)
+📦 Domain                    → Entidades e interfaces
 📦 Infrastructure            → Repositorio en memoria
 📦 UTests                    → Tests unitarios con xUnit
 📦 Web                       → Frontend en React + Vite
