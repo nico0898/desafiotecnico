@@ -1,0 +1,11 @@
+/Users/nicolasmendez/Desktop/desafio tecnico/Domain/bin/Debug/net8.0/Domain.deps.json
+/Users/nicolasmendez/Desktop/desafio tecnico/Domain/bin/Debug/net8.0/Domain.dll
+/Users/nicolasmendez/Desktop/desafio tecnico/Domain/bin/Debug/net8.0/Domain.pdb
+/Users/nicolasmendez/Desktop/desafio tecnico/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolasmendez/Desktop/desafio tecnico/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/Users/nicolasmendez/Desktop/desafio tecnico/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/Users/nicolasmendez/Desktop/desafio tecnico/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/Users/nicolasmendez/Desktop/desafio tecnico/Domain/obj/Debug/net8.0/Domain.dll
+/Users/nicolasmendez/Desktop/desafio tecnico/Domain/obj/Debug/net8.0/refint/Domain.dll
+/Users/nicolasmendez/Desktop/desafio tecnico/Domain/obj/Debug/net8.0/Domain.pdb
+/Users/nicolasmendez/Desktop/desafio tecnico/Domain/obj/Debug/net8.0/ref/Domain.dll
